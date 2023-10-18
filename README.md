@@ -218,7 +218,7 @@ The required program files are under day 2 folder
 
 Here we can observe that at 5th line, inorder to comute the result ,its going to the "load"  function
 
-### Further we will see how to run a C program on on RISC-V CPU
+
 
 [Back to COURSE](https://github.com/yagnavivek/PES_ASIC_CLASS/tree/main#course)
 </details>
