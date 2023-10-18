@@ -74,10 +74,11 @@ $out = $sel ? $in1 : $in2;
 $out[7:0] = $sel ? $in1[7:0] : $in2[7:0];
 ```
 4b) **Compile(Ctrl+E)**
-![WhatsApp Image 2023-10-17 at 8 00 51 PM](https://github.com/vaishbv/RISC-V/assets/79531808/47a0a9f6-072d-420c-9199-51ae525087ff)
+![1](https://github.com/vaishbv/RISC-V/assets/79531808/9ff88952-dbd2-4a16-a34a-0bdadbfa86f9)
 
 
-**E) Simple Claculator**
+
+**E) Simple Calculator**
 1) **Click on 'Examples'**
 2) **Load Default Template**   
 3) **Go to editor and make changes**
@@ -91,7 +92,8 @@ $qut[31:0] = $val1 / $val2;
 $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum);
 ```
 4) **Compile(Ctrl+E)**
-![WhatsApp Image 2023-10-18 at 10 48 01 AM](https://github.com/vaishbv/RISC-V/assets/79531808/c5e2226c-3261-401d-b159-3c42308ce338)
+![2](https://github.com/vaishbv/RISC-V/assets/79531808/06c3893e-3e40-4ff0-9962-9daa830e73d1)
+
 
 
 #### Task-4 : Sequential logic 
@@ -117,7 +119,8 @@ $fib[31:0] = $reset ? 1 : (>>1$fib + >>2$fib);
 $num[2:0] = $reset ? 0 : (>>1$num + 1); 
 ```
 4) **Compile(Ctrl+E)**
-![WhatsApp Image 2023-10-18 at 10 45 45 AM](https://github.com/vaishbv/RISC-V/assets/79531808/d5f528af-0d3b-48c3-b7da-43d5aa755a22)
+![3](https://github.com/vaishbv/RISC-V/assets/79531808/e12aac72-dd41-4483-a943-05492e0a5403)
+
 
 
 **C) Sequential Calculator**
@@ -134,7 +137,8 @@ $qut[31:0] = $val1 / $val2;
 $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum); 
 ```
 4) **Compile(Ctrl+E)**
-![WhatsApp Image 2023-10-18 at 10 34 51 AM](https://github.com/vaishbv/RISC-V/assets/79531808/cbcd9b7f-6f96-4ec8-9f20-264e391df70f)
+![4](https://github.com/vaishbv/RISC-V/assets/79531808/5ec5b390-4ca3-47f9-b21f-9ccb7c13432f)
+
 
 
 #### Task-5 : Pipelined logic
@@ -154,7 +158,8 @@ $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum);
          $cc[31:0] = sqrt($cc_sq);
 ```
 4) **Compile(Ctrl+E)**
-![WhatsApp Image 2023-10-18 at 10 31 42 AM](https://github.com/vaishbv/RISC-V/assets/79531808/40237330-6596-4715-9fd8-3316de069808)
+![5](https://github.com/vaishbv/RISC-V/assets/79531808/4daa2704-aaa6-4e4b-af60-8c9e638b3684)
+
 
 
 **B) Pipeline Implementation**
@@ -171,7 +176,8 @@ $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum);
          $err3 = $div_by_zero || $err2;
 ```
 4) **Compile(Ctrl+E)**
-![WhatsApp Image 2023-10-18 at 10 28 12 AM](https://github.com/vaishbv/RISC-V/assets/79531808/a4bd22ca-f15a-4231-9a49-704a7580605c)
+![6](https://github.com/vaishbv/RISC-V/assets/79531808/3820f592-0a5e-40c2-8322-5b5b1292d808)
+
 
 
 
@@ -212,7 +218,8 @@ $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum);
                                               $qut ;
 ```
 4) **Compile(Ctrl+E)**
-![WhatsApp Image 2023-10-18 at 10 27 17 AM](https://github.com/vaishbv/RISC-V/assets/79531808/97f8ece8-f71c-401b-917b-545483afbad5)
+![7](https://github.com/vaishbv/RISC-V/assets/79531808/149ddf9d-0711-40b7-9365-de028b4e6fb2)
+
 
 
 **B) Distance Calculator**
@@ -239,7 +246,9 @@ $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum);
                      >>1$total_distance;
 ```
 4) **Compile(Ctrl+E)**
-![WhatsApp Image 2023-10-18 at 10 25 36 AM](https://github.com/vaishbv/RISC-V/assets/79531808/15ea2591-3256-4423-9ac9-452480ea99e7)
+![8](https://github.com/vaishbv/RISC-V/assets/79531808/0a35abf0-1404-48f1-9aed-4f98148191cd)
+
+
 
 
 **A) Calulator Memory**
@@ -277,7 +286,8 @@ $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum);
                       ($op[2:0] == 3'b100) ? >>2$mem : >>2$out ;
 ```
 4) **Compile(Ctrl+E)**
-![WhatsApp Image 2023-10-17 at 8 03 34 PM](https://github.com/vaishbv/RISC-V/assets/79531808/02f477ea-ef3f-4912-90af-38a85579c02c)
+![9](https://github.com/vaishbv/RISC-V/assets/79531808/da38255c-23dc-492d-abd2-c0335f9d56bd)
+
 
 
 [Back to Top](#top)
