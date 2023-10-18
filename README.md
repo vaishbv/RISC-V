@@ -348,34 +348,44 @@ Use the following links : [Link for the starter code](https://myth.makerchip.com
 All the code files are located within the "DAY4" folder : [Link to DAY4 ](https://github.com/Pavan2280/RISC-V/tree/main/DAY4)
 
 #### Task-1 : Program Counter
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/ee23ca5b-0eaf-43a5-94ee-e992caa385c3)
+![1](https://github.com/vaishbv/RISC-V/assets/79531808/8e2744f9-7c58-4252-ba40-b5d2a9cf0a78)
+
 
 #### Task-2 : Instruction Fetch
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/7a013f50-0de4-4e51-99ae-61950c45ec13)
+![2](https://github.com/vaishbv/RISC-V/assets/79531808/301e5c2c-c896-4aab-a830-2ef81289ee4a)
+
 
 #### Task-3 : Instruction Decode
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/7b8a3ee1-d2e8-4cb3-8d73-ea98311150f1)
+![3](https://github.com/vaishbv/RISC-V/assets/79531808/ef0887e5-a2da-473c-880c-9e41f63a71c5)
+
 
 #### Task-4 : Instruction Decode with validity
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/446d2df0-9793-4b2f-9654-38bbabeac788)
+![4](https://github.com/vaishbv/RISC-V/assets/79531808/3748efb2-0310-4ef2-a863-70eef981b32d)
+
 
 #### Task-5 : Individual Instruction decode
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/02822525-10bf-497d-87af-2306d47ef9a9)
+![5](https://github.com/vaishbv/RISC-V/assets/79531808/4b2a98a2-a690-465e-b3b0-3b2ff4b95a48)
+
 
 #### Task-6 : Register File Read
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/c6946fc3-2dc0-40b7-adf0-40c1ba37289d)
+![6](https://github.com/vaishbv/RISC-V/assets/79531808/39ddb61c-9ed6-4317-84d2-52842d668414)
+
 
 #### Task-7 : ALU
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/d4402cd0-9ff7-4071-a0f6-b8a71bccb501)
+![7](https://github.com/vaishbv/RISC-V/assets/79531808/bcc40071-4efa-49ae-9149-3205bc52b38c)
+
 
 #### Task-8 : Register File Write
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/45f8fea1-7db9-4ede-9c1d-d082f03764cc)
+![8](https://github.com/vaishbv/RISC-V/assets/79531808/a5fb168a-daa4-4fd7-afb9-1e5daeb7cab8)
+
 
 #### Task-9 : Branch Instructions
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/1ec20ce2-3dcf-4a1d-8941-48f3ea3ebaac)
+![9](https://github.com/vaishbv/RISC-V/assets/79531808/38620f3c-1c2e-4519-8c0d-93dc0d746ab8)
+
 
 #### Task-10 : Testbench to check functionality
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/e00a3113-f18e-453d-9820-d4327fdf1bd0)
+![10](https://github.com/vaishbv/RISC-V/assets/79531808/2b588eb1-714e-4cd0-9b59-08609d5d8577)
+
 
 [Back to Top](#top)
 
