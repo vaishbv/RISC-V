@@ -326,7 +326,7 @@ $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum);
 2) **Load Default Template**   
 3) **Go to editor and make changes**
 ```
-$fib[31:0] = $reset ? 1 : (>>1$fib + >>2$fib); 
+$num[31:0] = $reset ? 1 : (>>1$num + >>2$num); 
 ```
 4) **Compile(Ctrl+E)**
 ![WhatsApp Image 2023-10-18 at 10 47 12 AM](https://github.com/vaishbv/RISC-V/assets/79531808/285f0634-2036-454b-91a0-4b7988bfceaa)
@@ -337,7 +337,7 @@ $fib[31:0] = $reset ? 1 : (>>1$fib + >>2$fib);
 2) **Load Default Template**   
 3) **Go to editor and make changes**
 ```
-$num[2:0] = $reset ? 0 : (>>1$num + 1); 
+$num[2:0] = $reset ? 0 : (>>1$cnt + 1); 
 ```
 4) **Compile(Ctrl+E)**
 ![3](https://github.com/vaishbv/RISC-V/assets/79531808/e12aac72-dd41-4483-a943-05492e0a5403)
