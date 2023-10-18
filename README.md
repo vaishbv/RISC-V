@@ -19,13 +19,12 @@ To access a specific example, please follow these steps:
 2) **Click on 'Examples'**
 3) **Load 'FGPA Multiplier' Example**
 
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/b7008e12-b9dc-4dbb-a7f2-fcdf84facfd9)
+![WhatsApp Image 2023-10-18 at 9 43 54 AM](https://github.com/vaishbv/RISC-V/assets/79531808/8145d97c-80af-4627-a3c5-55b2a9acddb2)
 
-4) **Load FGPA Multiplier Example**
 
-![image](https://github.com/Pavan2280/RISC-V/assets/131603225/6a9a1ac2-de7f-4402-b979-c77ab2911faf)
 
-#### Task-3 : Lab - Combitional logic
+
+#### Task-3 : Lab - Combinational logic
 **A) Inverter**
 1) **Click on 'Examples'**
 2) **Load Default Template**
