@@ -2663,3 +2663,12 @@ Use the following links : [Link for the starter code](https://myth.makerchip.com
 [Back to Top](#top)
 
 </details>
+
+# Code Comparison
+
+![image](https://github.com/Pavan2280/RISC-V/assets/131603225/b54e3d94-e28f-480d-b7b4-730e5541b499)
+
+> When using the Makerchip platform and selecting the "Show Verilog" option under the "E" tab to compare the RISC-V Core code written in TL-Verilog with System Verilog, the resulting comparison chart visually demonstrates a significant reduction in code size. This chart effectively showcases the enhanced code efficiency of TL-Verilog.
+# RISC V Core block diagram
+
+![image](https://github.com/Pavan2280/RISC-V/assets/131603225/c67bbe8d-db00-4eef-a983-2062f3f3c9b7)
